@@ -20,7 +20,7 @@ Command to add
 $ git add .
 
 Command to Commit
-$ git commit -m "added commands file"
+$ git commit -m "commands added to text file"
 
 Command to push
 $ git push
