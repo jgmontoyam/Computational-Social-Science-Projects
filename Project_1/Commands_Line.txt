@@ -1,0 +1,27 @@
+Clone your repository to your local machine
+$ git clone https://github.com/jgmontoyam/Computational-Social-Science-Projects.git
+
+Change the directory to the repository directory
+$ cd Computational-Social-Science-Projects
+
+Create a folder called “Project 1”
+$ mkdir Project_1
+
+Change directory to Project_1
+$ cd Project_1
+
+Create a text file in the “Project 1” folder
+$ touch Commands_Line.txt
+
+Edit text file
+$ vim Commands_Line.txt
+
+Command to add
+$ git add .
+
+Command to Commit
+$ git commit -m "added commands file"
+
+Command to push
+$ git push
+
